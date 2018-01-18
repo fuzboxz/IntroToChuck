@@ -1,0 +1,3 @@
+Chuck runs in a VM.
+Chuck works with time from a per sample level to even weeks.
+Console monitor can be used for debugging or outputting data.
